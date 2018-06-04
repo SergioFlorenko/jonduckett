@@ -1,0 +1,21 @@
+ol li {
+	float:left;
+	margin-left: 30px;
+}
+hr {
+	clear: both;
+}
+section {
+	margin: 50px;
+}
+fieldset {
+	margin-bottom:30px;
+}
+fieldset span {
+	margin-right: 10px;
+}
+fieldset input {
+	margin-top: 5px;
+
+/**/
+
